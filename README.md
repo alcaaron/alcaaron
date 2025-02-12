@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcaaron&label=Profile%20views&color=0e75b6&style=flat" alt="alcaaron" /> </p>
 
-- 👨‍💻 I’m currently studying **ICT Engineering**
+- 👨‍💻 I’m currently studying **ICT Systems Engineering**
 
-- 🌱 I’m currently learning about / interested in **IA, Cybersecurity**
+- 🌱 I’m currently learning about / interested in **IA, Cybersecurity and IoT**
 
-- 🔭 Nowadays I'm working on a **programming school for children**
+- 🔭 Nowadays I'm working on a **robotics and programming school for children**
 
-- 📫 How to reach me **aaronxxu.oficial@gmail.com**
+- 📫 How to reach me **alc.aaron18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
