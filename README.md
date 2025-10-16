@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently in 3rd year of ICT Systems Engineering<br><br>🌱 I’m currently learning about / interested in IA, Cybersecurity and IoT<br><br>🔭 Nowadays I'm working on a robotics and programming school for children<br><br>📫 How to reach me alc.aaron18@gmail.com
+👨‍💻 I’m currently in 4rd year of ICT Systems Engineering<br><br>🌱 I’m currently learning about / interested in IA, Cybersecurity and IoT<br><br>🔭 Nowadays I'm working on a robotics and programming school for children<br><br>📫 How to reach me alc.aaron18@gmail.com
 
 
 ## 🌐 Socials:
